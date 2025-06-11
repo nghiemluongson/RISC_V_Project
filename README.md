@@ -19,3 +19,4 @@ This project involves building a simple CPU based on the RISC-V architecture usi
 4. ![RISC-V](https://sirinsoftware.com/wp-content/uploads/2024/03/Scheme-2-1-1.svg)
 
 ## Directory Structure
+```
