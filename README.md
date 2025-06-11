@@ -37,3 +37,4 @@ RISC_V_Project
 
 ## References
 1. https://www.youtube.com/@semiedge1/videos
+2. https://www.wevolver.com/article/risc-v-architecture
