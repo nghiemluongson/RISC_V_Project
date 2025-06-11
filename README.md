@@ -13,8 +13,8 @@ This project involves building a simple CPU based on the RISC-V architecture usi
 6. Prepare a functional testbench to validate the entire CPU design.
 
 ## RISC-V Architecture
-RISC-V is an open-standard Instruction Set Architecture (ISA) based on the principles of Reduced Instruction Set Computing (RISC). It is designed to be simple, modular, and extensible, making it ideal for both academic research and commercial applications.
-RISC-V is a free and open ISA that allows developers to build custom processors without licensing restrictions. Its modular design enables scalable CPU implementations, from simple microcontrollers to powerful out-of-order processors.
-You can view in [this link:](https://sirinsoftware.com/blog/inside-risc-v-microarchitecture)
+1. RISC-V is an open-standard Instruction Set Architecture (ISA) based on the principles of Reduced Instruction Set Computing (RISC). It is designed to be simple, modular, and extensible, making it ideal for both academic research and commercial applications.
+2. RISC-V is a free and open ISA that allows developers to build custom processors without licensing restrictions. Its modular design enables scalable CPU implementations, from simple microcontrollers to powerful out-of-order processors.
+3. You can view in [this link:](https://sirinsoftware.com/blog/inside-risc-v-microarchitecture)
 
 ## Directory Structure
