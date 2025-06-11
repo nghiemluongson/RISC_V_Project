@@ -20,3 +20,5 @@ This project involves building a simple CPU based on the RISC-V architecture usi
 
 ## Directory Structure
 ```
+|- aaa
+|- bbb
