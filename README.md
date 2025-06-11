@@ -29,5 +29,6 @@ RISC_V_Project
 ## Simulation Result
 ![](![image](https://github.com/user-attachments/assets/5c8d4b31-678a-4789-b76f-7f2bf22b03ee)
 )
+![GTKway](https://github.com/user-attachments/assets/5c8d4b31-678a-4789-b76f-7f2bf22b03ee)
 
 ## 
