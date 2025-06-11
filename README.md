@@ -27,6 +27,7 @@ RISC_V_Project
 ```
 
 ## Simulation Result
-![Simulation](![image](https://github.com/user-attachments/assets/14633e35-459b-4afb-9a77-b67fc7526dd8))
+![](![image](https://github.com/user-attachments/assets/5c8d4b31-678a-4789-b76f-7f2bf22b03ee)
+)
 
 ## 
