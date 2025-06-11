@@ -35,4 +35,5 @@ RISC_V_Project
 ![image](https://github.com/user-attachments/assets/c2142f49-f910-4243-932a-d294245e8d1a)
 
 
-## 
+## References
+1. https://www.youtube.com/@semiedge1/videos
