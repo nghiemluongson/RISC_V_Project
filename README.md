@@ -18,6 +18,11 @@ This project involves building a simple CPU based on the RISC-V architecture usi
 3. You can view in [this link:](https://sirinsoftware.com/blog/inside-risc-v-microarchitecture)
 4. ![RISC-V](https://sirinsoftware.com/wp-content/uploads/2024/03/Scheme-2-1-1.svg)
 
+## Modelsim
+1. ModelSim is a popular simulation tool used for verifying HDL designs written in Verilog, VHDL, or SystemVerilog. It provides a powerful waveform viewer and debugging environment to test digital circuits before hardware implementation.
+2. ModelSim is widely used in both academia and industry for simulating digital designs. It helps students and engineers visualize signal transitions, analyze timing, and validate logic behavior through comprehensive simulation features.
+3. ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_o_srDKURJSw6zIAhYEHuY_ieihxR0YxeA&s)
+
 ## Directory Structure
 All modules and testbench are integrated in the same file. 
 ```
